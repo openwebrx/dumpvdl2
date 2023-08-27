@@ -1,0 +1,13 @@
+Source: dumpvdl2
+Maintainer: Jakob Ketterl <jakob.ketterl@gmx.de>
+Section: embedded
+Priority: optional
+Rules-Requires-Root: no
+Standards-Version: 4.3.0
+Build-Depends: debhelper (>= 10), cmake, libacars-dev, pkg-config, libglib2.0-dev
+
+Package: dumpvdl2
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: VDL Mode 2 message decoder and protocol analyzer
+ VDL Mode 2 message decoder and protocol analyzer
