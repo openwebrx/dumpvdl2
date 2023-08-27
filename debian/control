@@ -5,6 +5,9 @@ Priority: optional
 Rules-Requires-Root: no
 Standards-Version: 4.3.0
 Build-Depends: debhelper (>= 10), cmake, libacars-dev, pkg-config, libglib2.0-dev
+Homepage: https://github.com/szpajder/dumpvdl2
+Vcs-Git: https://github.com/szpajder/dumpvdl2.git
+Vcs-Browser: https://github.com/szpajder/dumpvdl2
 
 Package: dumpvdl2
 Architecture: any
