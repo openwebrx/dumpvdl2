@@ -1,3 +1,7 @@
+dumpvdl2 (2.3.0-2) UNRELEASED; urgency=low
+
+ -- Jakob Ketterl <jakob.ketterl@gmx.de>  Thu, 12 Oct 2023 02:45:00 +0000
+
 dumpvdl2 (2.3.0-1) bullseye jammy; urgency=low
 
   * Initial upload
